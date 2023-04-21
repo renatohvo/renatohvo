@@ -22,11 +22,11 @@
   
 ### 📚 My Github Stats: 
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatohvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatohvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <br/><br/>
 <img alt="Renato Henrique Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=renatohvo&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" />
 <br/><br/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatohvo&layout=compact&langs_count=16&theme=tokyonight&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatohvo&layout=compact&langs_count=8&theme=tokyonight" />
 
 ## 
 
